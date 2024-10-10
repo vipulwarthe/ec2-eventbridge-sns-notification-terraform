@@ -3,7 +3,7 @@
 
     Project link: https://medium.com/@rplearn06/create-an-eventbridge-rule-to-get-notified-on-ec2-instance-state-change-using-terraform-8ebcb45fc54e 
 
- # If we face error for git push event: remote origin already exists. error message: "error: remote origin already exists."
+ ## If we face error for git push event: remote origin already exists. error message: "error: remote origin already exists."
 
 Option 1: View the Existing Remotes  :  
     
